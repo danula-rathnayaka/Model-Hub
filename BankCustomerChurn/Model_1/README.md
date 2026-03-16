@@ -29,7 +29,6 @@ The dataset contains information about **10,000 bank customers**.
 The following steps were applied:
 
 - Removed unnecessary columns
-  - `RowNumber`
   - `CustomerId`
   - `Surname`
 
